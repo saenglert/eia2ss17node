@@ -1,0 +1,20 @@
+{
+  "name": "eia2ss17node",
+  "version": "0.0.1",
+  "description": "Node Application for the EIA 2 lecture in SS17",
+  "author": {
+    "name": "Sascha Englert",
+    "email": "sascha@englerts.de",
+    "url": "https://englerts.de"
+  },
+  "files": [],
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saenglert/eia2ss17node.git"
+  },
+  "scripts": {
+    "start": "node main.js Hallo Welt>"
+    ,
+  }
+}
