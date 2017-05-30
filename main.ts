@@ -1,2 +1,6 @@
+/// <reference path="vendor/node.d.ts" />
 
-console.log("Hello World");
+import Process = NodeJS.Process;
+
+console.log("hello world");
+console.log("bye world");
