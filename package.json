@@ -14,6 +14,6 @@
     "url": "https://github.com/saenglert/eia2ss17node.git"
   },
   "scripts": {
-    "start": "node main.js Hallo Welt>"
+    "start": "node main.js Hallo Welt"
   }
 }
