@@ -15,5 +15,10 @@
   },
   "scripts": {
     "start": "node main.js Hallo Welt"
+  },
+  "engines" : {
+    "node" : "7.10.0"
+  },
+  "dependencies" : {
   }
 }
